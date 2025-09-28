@@ -38,7 +38,7 @@ if namainput == nama and NIMinput == NIM:
         print(f"Cicilan 2x per semester: {totalbayar2} (2x @{cicilan2})")
 
     elif opsibayar == "3":
-        print(f"Cicilan 4x per semester: {totalbayar3} (4x @{cicilan3}")
+        print(f"Cicilan 4x per semester: {totalbayar3} (4x @{cicilan3})")
 
     elif opsibayar == "4":
         print(f"Cicilan 6x per semester: {totalbayar4} (6x @{cicilan4})")
@@ -48,3 +48,6 @@ if namainput == nama and NIMinput == NIM:
 
 else:
     print("Login gagal, nama atau NIM yang anda masukkan salah")
+
+print()
+input("Tekan enter untuk keluar...")
