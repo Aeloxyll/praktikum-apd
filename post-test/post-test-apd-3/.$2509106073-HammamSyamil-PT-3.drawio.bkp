@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
   <diagram name="Page-1" id="AEKJDxbx3GLnrpSd7vlP">
-    <mxGraphModel dx="872" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="0.5" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1246" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="0.5" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,10 +91,10 @@
         <mxCell id="GA_te8V-HZgvr2GIihAL-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=13;" parent="1" source="GA_te8V-HZgvr2GIihAL-60" target="GA_te8V-HZgvr2GIihAL-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GA_te8V-HZgvr2GIihAL-60" value="Output &quot;(3)&amp;nbsp;Cicilan 4x per Semester – Biaya administrasi 8%&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="GA_te8V-HZgvr2GIihAL-60" value="Output &quot;(3)&amp;nbsp;Cicilan 4x per Semester – Biaya administrasi 8%" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="400" y="518.13" width="232.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GA_te8V-HZgvr2GIihAL-62" value="Output &quot;(4)&amp;nbsp;Cicilan 6x per Semester – Biaya administrasi 12%&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="GA_te8V-HZgvr2GIihAL-62" value="Output &quot;(4)&amp;nbsp;Cicilan 6x per Semester – Biaya administrasi 12%" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="400" y="558.13" width="232.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GA_te8V-HZgvr2GIihAL-64" value="Input opsibayar" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=13;" parent="1" vertex="1">
@@ -216,7 +216,7 @@
             <mxPoint x="330" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LzUeMvmhN9EwATbfKQv7-9" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=13;" parent="GA_te8V-HZgvr2GIihAL-136" vertex="1" connectable="0">
+        <mxCell id="LzUeMvmhN9EwATbfKQv7-9" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=13;" vertex="1" connectable="0" parent="GA_te8V-HZgvr2GIihAL-136">
           <mxGeometry x="-0.2227" y="-1" relative="1" as="geometry">
             <mxPoint x="1" y="-1" as="offset" />
           </mxGeometry>
@@ -313,7 +313,7 @@
             <mxPoint x="398.4975000000002" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LzUeMvmhN9EwATbfKQv7-1" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=14;" parent="GA_te8V-HZgvr2GIihAL-161" vertex="1" connectable="0">
+        <mxCell id="LzUeMvmhN9EwATbfKQv7-1" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=14;" vertex="1" connectable="0" parent="GA_te8V-HZgvr2GIihAL-161">
           <mxGeometry x="-0.4651" relative="1" as="geometry">
             <mxPoint y="38" as="offset" />
           </mxGeometry>
@@ -348,34 +348,34 @@
         <mxCell id="GA_te8V-HZgvr2GIihAL-169" value="Output&amp;nbsp;&quot;Login gagal, nama atau NIM yang anda masukkan salah&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="51.89" y="498.13" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LzUeMvmhN9EwATbfKQv7-2" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=13;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+        <mxCell id="LzUeMvmhN9EwATbfKQv7-2" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=13;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="496.25" y="700.63" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LzUeMvmhN9EwATbfKQv7-3" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=13;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+        <mxCell id="LzUeMvmhN9EwATbfKQv7-3" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=13;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="681.88" y="190" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LzUeMvmhN9EwATbfKQv7-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LzUeMvmhN9EwATbfKQv7-3" target="GA_te8V-HZgvr2GIihAL-66" edge="1">
+        <mxCell id="LzUeMvmhN9EwATbfKQv7-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LzUeMvmhN9EwATbfKQv7-3" target="GA_te8V-HZgvr2GIihAL-66">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="874.99" y="210" as="sourcePoint" />
             <mxPoint x="924.99" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LzUeMvmhN9EwATbfKQv7-6" value="Output &quot;Pilih opsi pembayaran (1-4) : &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="LzUeMvmhN9EwATbfKQv7-6" value="Output &quot;Pilih opsi pembayaran (1-4) : &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="400" y="608.13" width="232.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LzUeMvmhN9EwATbfKQv7-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GA_te8V-HZgvr2GIihAL-62" target="LzUeMvmhN9EwATbfKQv7-6" edge="1">
+        <mxCell id="LzUeMvmhN9EwATbfKQv7-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GA_te8V-HZgvr2GIihAL-62" target="LzUeMvmhN9EwATbfKQv7-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="570" as="sourcePoint" />
             <mxPoint x="500" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LzUeMvmhN9EwATbfKQv7-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LzUeMvmhN9EwATbfKQv7-6" target="GA_te8V-HZgvr2GIihAL-64" edge="1">
+        <mxCell id="LzUeMvmhN9EwATbfKQv7-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LzUeMvmhN9EwATbfKQv7-6" target="GA_te8V-HZgvr2GIihAL-64">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="570" as="sourcePoint" />
             <mxPoint x="500" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LzUeMvmhN9EwATbfKQv7-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="GA_te8V-HZgvr2GIihAL-75" edge="1">
+        <mxCell id="LzUeMvmhN9EwATbfKQv7-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GA_te8V-HZgvr2GIihAL-75">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="976.74" y="288.13" as="sourcePoint" />
             <mxPoint x="120" y="850" as="targetPoint" />
@@ -385,7 +385,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LzUeMvmhN9EwATbfKQv7-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="GA_te8V-HZgvr2GIihAL-166" edge="1">
+        <mxCell id="LzUeMvmhN9EwATbfKQv7-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="GA_te8V-HZgvr2GIihAL-166">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="132" y="850" as="sourcePoint" />
             <mxPoint x="250" y="780" as="targetPoint" />
@@ -394,19 +394,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LzUeMvmhN9EwATbfKQv7-15" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="GA_te8V-HZgvr2GIihAL-84" edge="1">
+        <mxCell id="LzUeMvmhN9EwATbfKQv7-15" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GA_te8V-HZgvr2GIihAL-84">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1020" y="410" as="sourcePoint" />
             <mxPoint x="1000" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LzUeMvmhN9EwATbfKQv7-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.949;exitY=0.589;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="GA_te8V-HZgvr2GIihAL-131" edge="1">
+        <mxCell id="LzUeMvmhN9EwATbfKQv7-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.949;exitY=0.589;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GA_te8V-HZgvr2GIihAL-131">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1020" y="520" as="sourcePoint" />
             <mxPoint x="1000" y="505" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LzUeMvmhN9EwATbfKQv7-17" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="GA_te8V-HZgvr2GIihAL-132" edge="1">
+        <mxCell id="LzUeMvmhN9EwATbfKQv7-17" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GA_te8V-HZgvr2GIihAL-132">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1040" y="630" as="sourcePoint" />
             <mxPoint x="1000" y="600" as="targetPoint" />
