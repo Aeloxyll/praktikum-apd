@@ -17,9 +17,9 @@ while kesempatan <= 3:
         keluar = False
         while not keluar:
             print("=== MENU PEMBELIAN FURNITUR ===")
-            print("1. Sofa - Rp 500.000")
-            print("2. Meja Belajar - Rp 250.000")
-            print("3. Rak Lemari - Rp 150.000")
+            print("1. Sofa          -   Rp 500.000")
+            print("2. Meja Belajar  -   Rp 250.000")
+            print("3. Rak Lemari    -   Rp 150.000")
             print("4. Keluar")
             pilihan = int(input("Pilih menu (1-4): "))
 
