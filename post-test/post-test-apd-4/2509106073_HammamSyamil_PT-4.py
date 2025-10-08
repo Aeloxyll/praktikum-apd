@@ -1,7 +1,3 @@
-# Program: Toko Furnitur Infordeh
-# Nama: Hammam Syamil
-# NIM: 2509106073
-
 nama = "Hammam Syamil"
 nim = "2509106073"
 kesempatan = 1
