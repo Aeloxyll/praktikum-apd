@@ -73,3 +73,5 @@ while kesempatan <= 3:
 
 if kesempatan > 3:
     print("Kesempatan login anda telah habis.")
+
+input("\nTekan Enter untuk keluar...")
