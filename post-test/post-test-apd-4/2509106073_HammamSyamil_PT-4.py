@@ -8,14 +8,13 @@ kesempatan = 1
 
 while kesempatan <= 3:
     print("=== LOGIN TOKO FURNITUR INFORDEH ===")
-    user = input("Masukkan Nama: ")
-    password = input("Masukkan NIM : ")
+    user = input("Username : ")
+    password = input("Password : ")
 
     if user == nama and password == nim:
         print("\nLogin berhasil! Selamat datang di Toko Furnitur Infordeh\n")
 
-        keluar = False
-        while not keluar:
+        while True:
             print("=== MENU PEMBELIAN FURNITUR ===")
             print("1. Sofa          -   Rp 500.000")
             print("2. Meja Belajar  -   Rp 250.000")
@@ -34,21 +33,17 @@ while kesempatan <= 3:
                 harga_satuan = 150000
             elif pilihan == 4:
                 print("Terima kasih telah berbelanja di Toko Furnitur Infordeh!")
-                keluar = True
                 break
             else:
                 print("Pilihan tidak valid!\n")
                 continue
 
-            # Input jumlah unit
             jumlah = int(input(f"Berapa unit {jenis} yang ingin dibeli? "))
 
-            # Hitung total harga menggunakan for loop
             total = 0
             for i in range(jumlah):
                 total += harga_satuan
 
-            # Terapkan ketentuan poin plus
             if total >= 700000:
                 diskon = total * 0.20
                 total_akhir = total - diskon
@@ -64,7 +59,6 @@ while kesempatan <= 3:
                 total_akhir = total
                 bonus = "-"
 
-            # Tampilkan struk
             print("\n=== STRUK PEMBELIAN ===")
             print(f"Jenis Furnitur : {jenis}")
             print(f"Jumlah Unit    : {jumlah}")
@@ -74,7 +68,7 @@ while kesempatan <= 3:
 
         break
     else:
-        print("Login gagal! Nama atau NIM salah.\n")
+        print("Login gagal! Username atau Password salah.\n")
         kesempatan += 1
 
 if kesempatan > 3:
