@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python 2509106073_HammamSyamil_PT7.py)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
